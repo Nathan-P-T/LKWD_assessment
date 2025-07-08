@@ -8,7 +8,7 @@ This repo includes the following files and outputs:
 |---------------------------|-------------|
 | `SQL task.py`/`SQL task.sql` | SQL solutions to part one. Originally run in Python using `sqlalchemy`, I’ve also uploaded the SQL separately |
 | `EDA.py`                  | Light exploratory data analysis (to quickly assess column viability), along with CVI* calculation and aggregation |
-| `Report.docx`             | Main analysis report answering the business questions and giving some high-level recommendations |
+| `Report.docx`             | Main analysis report answering the business questions and giving some high-level recommendations. Please note the appendix may be hidden under 'more pages' |
 | `Excel_workings.xlsx`     | Used to build two quick forecasting models (linear regression and historical scaling) along with charts used in the report |
 | `Python_outputs/`         | Output CSVs for CVI aggregations along with EDA summaries (including auto-generated bar and distribution plots for data quality sense checks) |
 
