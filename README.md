@@ -24,7 +24,7 @@ The main report focuses on:
 	- CVI
 - Some high-level recommendations for strategic focus
 
-Areas such as disrupted orders (which I defined as sales that were cancelled, on-hold, or disputed) were scoped but not included in the final write-up due to the time limit
+Additional areas of analysis, such as disrupted orders (which I defined as sales that were cancelled, on-hold, or disputed), were scoped but not included in the final write-up due to the time limit
 
 ## Tooling choices
 
