@@ -32,14 +32,14 @@ Excel was used for quick chart production as well as forecasting experiments, li
 
 Python was used to quickly assess the quality of each column (high level metrics such as completeness), as well as to generate CVI aggregates in a reusable manner
 
-## What I’d explore next
-A few follow-on areas I would tackle are:
+## Potential next steps
+
 - Identifying seasonal patterns
 - More analysis using indexes, such as:
 	- Item popularity Index (quantity sold / quantity of all items sold) to give a high level indication of individual product performance
 	- Revenue per unit index (total sales/quantity sold) in case items have variable pricing 
 	- Item penetration Index (sales of item in region/ total regional sales) / (sales of item overall/total sales overall) to highlight how well products may sell in a territory versus how they do overall
-- Extending the Python code to support automation (more modular, tested, functions, including logging and profiling to monitor performance)
+- Extending the Python code to support automation (more modular, and tested, functions, which include logging and profiling functionality to monitor performance)
 - Utilising dashboarding software (e.g. in PowerBI) to explore the data more interactively and to allow for automated reporting
 - Profiling individual customers (potentially identifying distinct groups by their behaviour)
 - Assessing more granular variables (such as country, or city level aggregations) as well as relationships between variables (for example, product line by country)
