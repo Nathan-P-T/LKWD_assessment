@@ -6,7 +6,7 @@ This repo contains my submission for the LKWD Senior Data Analyst take-home asse
 This repo includes the following files and outputs:
 | File / Folder              | Description |
 |---------------------------|-------------|
-| `SQL task.py`/`SQL task.sql` | SQL solutions to part one. Originally run in Python using `sqlalchemy`, I’ve also uploaded the SQL separately |
+| `SQL task.py`/`SQL task.sql` | SQL solutions to part one of the task. Originally run in Python using `sqlalchemy`, I’ve also included as a separate SQL file (the core logic is the same) |
 | `EDA.py`                  | Light exploratory data analysis (to quickly assess column viability), along with CVI* calculation and aggregation |
 | `Report.docx`             | Main analysis report answering the business questions and giving some high-level recommendations. Please note the appendix may be hidden under 'more pages' |
 | `Excel_workings.xlsx`     | Used to build two quick forecasting models (linear regression and historical scaling) along with charts used in the report |
